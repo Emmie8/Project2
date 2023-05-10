@@ -14,6 +14,7 @@ func PrintWorkingDirectory(args ...string) error {
 		return fmt.Errorf("ERROR can't print working directory.")
 	} else {
 		fmt.Printf(wd) //prints working directory
+		fmt.Printf("\n")
 	}
 
 	return nil

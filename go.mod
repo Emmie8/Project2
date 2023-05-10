@@ -1,4 +1,4 @@
-module github.com/jh125486/CSCE4600/Project2
+module github.com/Emmie8/Project2
 
 go 1.19
 

@@ -1,5 +1,16 @@
 # Project 2: Shell Builtins
 
+# To Run
+Open a terminal, navigate to the directory with main.go, and type "go run main.go"
+
+# The commands
+The five commands we added are:
+mkdir: Josh
+rmdir: Percy
+read: Emmie
+pwd: Mya
+ls: Demir
+
 ## Description
 
 For this project we'll be adding commands to a simple shell. 
